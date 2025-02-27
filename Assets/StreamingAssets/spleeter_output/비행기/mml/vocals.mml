@@ -1,0 +1,3307 @@
+[
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l1 (1.57s)"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l1 (0.96s)"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯7",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l1 (1.18s)"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯3",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "r",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l4"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G♯5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G5",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "D♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "C♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "E4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l2"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F4",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "F♯7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l8"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "B7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "G7",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A6",
+        "length": "l16"
+    },
+    {
+        "instrument": "vocals",
+        "value": "A7",
+        "length": "l16"
+    }
+]

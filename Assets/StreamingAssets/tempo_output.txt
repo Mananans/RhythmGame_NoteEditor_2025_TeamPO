@@ -1,0 +1,5 @@
+Tempo: [85.22727273] BPM
+Duration: 99.62 seconds
+Total bars (4/4): 35 bars
+Beats in the last bar: 1 beats
+Time Signature: 4/4
